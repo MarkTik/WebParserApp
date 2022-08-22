@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\WebParser\WebParser\bin\Debug\netcoreapp3.1\WebParser.exe
+C:\Users\Administrator\source\repos\WebParser\WebParser\bin\Debug\netcoreapp3.1\WebParser.deps.json
+C:\Users\Administrator\source\repos\WebParser\WebParser\bin\Debug\netcoreapp3.1\WebParser.runtimeconfig.json
+C:\Users\Administrator\source\repos\WebParser\WebParser\bin\Debug\netcoreapp3.1\WebParser.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\WebParser\WebParser\bin\Debug\netcoreapp3.1\WebParser.dll
+C:\Users\Administrator\source\repos\WebParser\WebParser\bin\Debug\netcoreapp3.1\WebParser.pdb
+C:\Users\Administrator\source\repos\WebParser\WebParser\obj\Debug\netcoreapp3.1\WebParser.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WebParser\WebParser\obj\Debug\netcoreapp3.1\WebParser.Form1.resources
+C:\Users\Administrator\source\repos\WebParser\WebParser\obj\Debug\netcoreapp3.1\WebParser.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WebParser\WebParser\obj\Debug\netcoreapp3.1\WebParser.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebParser\WebParser\obj\Debug\netcoreapp3.1\WebParser.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebParser\WebParser\obj\Debug\netcoreapp3.1\WebParser.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebParser\WebParser\obj\Debug\netcoreapp3.1\WebParser.dll
+C:\Users\Administrator\source\repos\WebParser\WebParser\obj\Debug\netcoreapp3.1\WebParser.pdb
+C:\Users\Administrator\source\repos\WebParser\WebParser\obj\Debug\netcoreapp3.1\WebParser.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WebParser\WebParser\obj\Debug\netcoreapp3.1\WebParser.Edit_Form.resources
